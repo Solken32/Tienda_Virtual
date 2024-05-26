@@ -37,19 +37,19 @@
 	const NOMBRE_REMITENTE = "Tienda Virtual";
 	const EMAIL_REMITENTE = "no-reply@tecomsis.com";
 	const NOMBRE_EMPESA = "Tienda Virtual";
-	const WEB_EMPRESA = "www.tecomsis.com";
+	const WEB_EMPRESA = "www.tupuntodemoda.com";
 
 	const DESCRIPCION = "La mejor tienda en línea con artículos de moda.";
 	const SHAREDHASH = "TiendaVirtual";
 
 	//Datos Empresa
-	const DIRECCION = "Avenida las Américas Zona 13, Guatemala";
-	const TELEMPRESA = "+(056)944646945";
-	const WHATSAPP = "+944646945";
-	const EMAIL_EMPRESA = "info@tecomsis.com";
-	const EMAIL_PEDIDOS = "info@tecomsis.com"; 
-	const EMAIL_SUSCRIPCION = "info@tecomsis.com";
-	const EMAIL_CONTACTO = "info@tecomsis.com";
+	const DIRECCION = " Av. Ramos 232, Imperial 15701";
+	const TELEMPRESA = "+(051)994 811 205";
+	const WHATSAPP = "994811205";
+	const EMAIL_EMPRESA = "tupuntodemoda@gmail.com";
+	const EMAIL_PEDIDOS = "tupuntodemoda@gmail.com"; 
+	const EMAIL_SUSCRIPCION = "tupuntodemoda@gmail.com";
+	const EMAIL_CONTACTO = "tupuntodemoda@gmail.com";
 
 	const CAT_SLIDER = "1,2,3";
 	const CAT_BANNER = "4,5,6";
@@ -99,7 +99,7 @@
 	const PROBUSCAR = 4;
 
 	//REDES SOCIALES
-	const FACEBOOK = "https://www.facebook.com/tecomsis";
+	const FACEBOOK = "https://www.facebook.com/Tupuntodemodaoriginal/";
 	const INSTAGRAM = "https://www.instagram.com/tecomsis/";
 	
 
